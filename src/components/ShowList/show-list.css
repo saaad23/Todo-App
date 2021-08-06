@@ -1,0 +1,19 @@
+.todo-list-data {
+  margin: 0;
+}
+.show-todo-list {
+  display: block;
+  /* border: 5px solid black; */
+}
+
+.hide-todo-list {
+  display: none;
+}
+
+.hide-todo-btn {
+  display: none;
+}
+
+.show-todo-btn {
+  display: block;
+}

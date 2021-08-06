@@ -1,0 +1,17 @@
+.contents {
+  display: flex;
+  align-items: center;
+}
+
+.todo-element {
+  padding-left: 15px;
+}
+
+.notes-icon {
+  margin-bottom: 16px;
+  padding-left: 10px;
+}
+
+.todo-heading {
+  padding: 0;
+}

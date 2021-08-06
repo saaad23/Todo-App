@@ -1,0 +1,66 @@
+.custom-box {
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+}
+.header-form {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 20px;
+  max-width: 650px;
+}
+
+.border-none {
+  border: none;
+  border-bottom: 1px solid grey;
+  margin: 0 30px;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Helvetica;
+  outline: none;
+}
+
+.wrapper-class {
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+  height: 250px;
+  margin: 5px 30px 20px 30px;
+}
+.editor-class {
+  height: 170px;
+  overflow: hidden;
+}
+
+.list-btn-alignment {
+  width: 50%;
+  display: flex;
+
+  align-items: center;
+  flex-direction: row;
+  margin: 5px 30px;
+}
+
+.add-btn {
+  background-color: #2da562;
+  color: white;
+  border: 1px solid #2da562;
+  border-radius: 50px;
+  width: 100px;
+  padding: 4px 12px;
+  margin: 0px;
+  font-size: 14px;
+}
+
+.remove-btn {
+  background-color: white;
+  color: #2da562;
+  border: 1px solid #2da562;
+  border-radius: 50px;
+  width: 100px;
+  padding: 2px 12px;
+  margin: 0 5px;
+}
+
+.opening-editor-txt {
+  cursor: pointer;
+  margin: 15px 30px;
+}
